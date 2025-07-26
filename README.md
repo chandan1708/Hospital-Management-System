@@ -5,8 +5,6 @@ Please enter this command in the terminal in the same workspace as this project 
 
 <hr>
 
-This Project was a mini Project done in 5th sem of our Engineering.
-
 ### Project Description:`<br>`
 
 Hospital Management System is designed to streamline the workflow of hospital management by providing efficient tools for adding new patients and doctors, retrieving detailed information about them, and scheduling appointments with ease. The system allows for seamless creation of appointments using the "Add Appointment" feature, ensuring that hospital operations run smoothly and effectively.
